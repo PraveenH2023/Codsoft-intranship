@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://res.cloudinary.com/dicqlqbdj/image/upload/v1704213381/360_F_572546714_2mn39TUv2f5Lmg7JRT9yvSkuTJERGyg8_btb2ev.jpg");
+    background-size: cover;
+}
+
+.logo {
+    width: 100px;
+    height: 40px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Lobster";
+
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Lobster";
+
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Lobster";
+
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Lobster";
+
+}
+
+#navItem5 {
+    color: #323f4b;
+    font-family: "Lobster";
+
+}
+
+.about-me-image-card-container {
+    height: auto;
+}
+
+
+.profile-image-size {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border-color: #42d7f5;
+    border-width: 3px;
+    border-style: solid;
+}
+
+.profile-image-heading {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: #49158a;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+
+.profile-image-paragraph {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: #0b1de0;
+}
+
+.about-me-heading {
+    font-size: 20px;
+    font-family: "Bree Serif";
+    font-weight: bold;
+    color: #0aa633;
+    text-decoration: underline;
+}
+
+.about-me-paragraph {
+    font-size: 20px;
+    font-family: "Caveat";
+    font-style: italic;
+    font-weight: bold;
+    color: #101712;
+}
+
+.skill-card-container {
+    background-image: url("https://res.cloudinary.com/dicqlqbdj/image/upload/v1704213380/pexels-photo-531880.jpeg_ono3jn.jpg");
+    background-size: cover;
+}
+
+.skilles-main-heading {
+    font-size: 25px;
+    font-family: "Roboto";
+    color: #ffffff;
+}
+
+.skills-card-continer {
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+    border-width: 4px;
+    border-color: #29f0e2;
+    border-style: solid;
+}
+
+.skills-images {
+    height: 60px;
+    width: 60px;
+    background-size: cover;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+
+.skills-bottom-heading {
+    font-size: 18px;
+    font-family: "roboto";
+    color: white;
+    font-weight: bold;
+}
+
+.project-section {
+    background-image: url("https://res.cloudinary.com/dicqlqbdj/image/upload/v1704281287/4ZVhUm_ugeuta.jpg");
+    background-size: cover;
+}
+
+.project-main-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.unodered-list-of-projrct {
+    list-style-type: circle;
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #d5f5f3;
+}
+
+.Resume-container-section {
+    background-image: url("https://res.cloudinary.com/dicqlqbdj/image/upload/v1704213381/vivid-blurred-colorful-background_58702-2545.jpg_gbqp7r.jpg");
+    background-size: cover;
+}
+
+.resume-main-heading {
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #8c0d64;
+}
+
+
+
+
+
+
+.Contact-Us-section {
+    background-image: url("https://res.cloudinary.com/dicqlqbdj/image/upload/v1704286166/smooth-dark-blue-background_1258-45745_vedrvz.jpg");
+    background-size: cover;
+}
+
+.contact-us-heading {
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #67d45b;
+}
+
+.icon {
+    background-color: #d5f5f3;
+    color: #0c3331;
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+    padding-top: 8px;
+    margin-right: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Footer-paragraph {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: #aab0a9;
+}
